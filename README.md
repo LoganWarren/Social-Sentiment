@@ -10,6 +10,6 @@ The Social Media Sentiment Analyzer is a Python-based tool that uses Natural Lan
 - Categorizes sentiment as positive, negative, or neutral
 - Generates a summary of sentiment analysis results
 
-License
+### License
 
 This project is licensed under the MIT License.
